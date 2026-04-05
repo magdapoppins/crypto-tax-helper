@@ -1,0 +1,14 @@
+# Editor files
+.idea/
+.vscode/
+
+# All data files except example.csv are ignored
+data/*
+!data/example.csv
+
+# Target directory
+target/
+
+# OS files
+.DS_Store
+
